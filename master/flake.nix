@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-polymers-master.flake = false;
+  inputs.src-polymers-master.ref   = "refs/heads/master";
   inputs.src-polymers-master.owner = "rlipsc";
-  inputs.src-polymers-master.ref   = "master";
   inputs.src-polymers-master.repo  = "polymers";
   inputs.src-polymers-master.type  = "github";
   
