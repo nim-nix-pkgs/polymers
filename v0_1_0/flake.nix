@@ -11,7 +11,6 @@
   inputs.src-polymers-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-polymers-v0_1_0.owner = "rlipsc";
   inputs.src-polymers-v0_1_0.repo  = "polymers";
-  inputs.src-polymers-v0_1_0.dir   = "";
   inputs.src-polymers-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
