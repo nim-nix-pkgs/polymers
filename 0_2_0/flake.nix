@@ -11,6 +11,7 @@
   inputs.src-Polymers-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-Polymers-0_2_0.owner = "rlipsc";
   inputs.src-Polymers-0_2_0.repo  = "polymers";
+  inputs.src-Polymers-0_2_0.dir   = "";
   inputs.src-Polymers-0_2_0.type  = "github";
   
   inputs."polymorph".owner = "nim-nix-pkgs";
