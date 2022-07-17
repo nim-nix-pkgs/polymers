@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1658018188,
-        "narHash": "sha256-Edl56d0nPGq8Z9upXtCRUgkbd6aMlFY+GLI32dlsfW4=",
+        "lastModified": 1658032138,
+        "narHash": "sha256-PCQTZuvjDC3hjWRWKlvh36s5nwxaUjcpboDrZnKvpnE=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "5b4842eab4b624d985f682db040c7d0ddf7979d7",
+        "rev": "cf5583c5ad0691b0be8470e298289e6926f21d99",
         "type": "github"
       },
       "original": {
